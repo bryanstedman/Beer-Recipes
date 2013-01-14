@@ -2,7 +2,9 @@ Porter
 ====================
 
 **Beer Style**:	Porter
+
 **Recipe Type**:	Partial mash
+
 **Yield**:	5 gallons
 
 ####MALTs
