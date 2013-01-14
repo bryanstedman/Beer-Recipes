@@ -1,6 +1,6 @@
 Beer Recipes
 =================
-This is a compilation of my home brew recipes. Feel free to submit tweaks.
+This is a compilation of my home brew recipes. Feel free to submit new recipes and tweaks to existing ones.
 
 ##Recipes 
 
