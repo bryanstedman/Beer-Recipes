@@ -1,35 +1,25 @@
 Porter
 ====================
 
-**Beer Style**:	Porter
-
-**Recipe Type**:	Partial mash
-
+**Beer Style**:	Porter  
+**Recipe Type**: Partial mash  
 **Yield**:	5 gallons
 
-####MALTs
-6 oz. chocolate malt
-
-6 oz. black patent malt
-
-8 oz. honey malt
-
-8 oz. 10L crystal malt
-
-4 oz. toasted barley 
-
+#####MALTs
+6 oz. chocolate malt  
+6 oz. black patent malt  
+8 oz. honey malt  
+8 oz. 10L crystal malt  
+4 oz. toasted barley   
 8 oz. malto-dextrin
-####EXTRACTS
-6 lbs. Light malt extract syrup
-
+#####EXTRACTS
+6 lbs. Light malt extract syrup  
 1 lb. Light dry malt extracts
-####HOPS
-1 1/2 oz. Galena hops 
-
-1 oz. Cascade hops 
-
+#####HOPS
+1 1/2 oz. Galena hops  
+1 oz. Cascade hops  
 1 oz. Tettnanger hops
-####YEAST
+#####YEAST
 Wyeast #1338 European Ale yeast
 
 
