@@ -4,7 +4,6 @@ Porter
 **Beer Style**:	Porter  
 **Recipe Type**: Partial mash  
 **Yield**:	5 gallons
-
 #####MALTs
 6 oz. chocolate malt  
 6 oz. black patent malt  
