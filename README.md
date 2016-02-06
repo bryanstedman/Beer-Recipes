@@ -4,4 +4,6 @@ This is a compilation of my home brew recipes. Feel free to submit new recipes a
 
 ##Recipes 
 
-*[Porter](https://github.com/bryanstedman/Beer-Recipes/blob/master/porter.md)
+* [Brown Ale](https://github.com/bryanstedman/Beer-Recipes/blob/master/brown-ale.md)
+* [Porter](https://github.com/bryanstedman/Beer-Recipes/blob/master/porter.md)
+
